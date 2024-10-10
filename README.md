@@ -1,7 +1,10 @@
 # Aetheria - Your Personal AI Assistant
 
-[![Voiceflow Prototype](https://img.shields.io/badge/Voiceflow-Prototyping-blue)](https://creator.voiceflow.com/prototype/6702ce208b43f585790f8db7)
-[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-red)](https://youtu.be/21FAkhyvjqc)
+[![Voiceflow](https://img.shields.io/badge/Voiceflow-blue)](https://creator.voiceflow.com/prototype/6702ce208b43f585790f8db7)
+[![LLM](https://img.shields.io/badge/LLM-Chatbot-orange)](https://en.wikipedia.org/wiki/Large_language_model)
+[![NLP](https://img.shields.io/badge/NLP-Powered-yellowgreen)](https://en.wikipedia.org/wiki/Natural_language_processing)
+[![Claude AI](https://img.shields.io/badge/Claude-AI-green)](https://www.anthropic.com/product)
+
 
 Aetheria is an AI-powered chatbot designed to assist students with various aspects of campus life. Whether you need help with course information, student life activities, or experiential learning opportunities like internships and co-op programs, Aetheria is here to make the process seamless.
 
@@ -42,7 +45,10 @@ Aetheria is an AI-powered chatbot designed to assist students with various aspec
 
 - **Voiceflow**: Built using Voiceflow for seamless conversational experiences.
 - **Natural Language Processing (NLP)**: Understands and responds to user queries with human-like interactions.
+- **Large Language Model (LLM)**: Utilizes powerful LLM capabilities to enhance the chatbot's understanding and response accuracy.
+- **Claude AI**: Integrates Claude AI to enhance conversational depth and flexibility.
 - **Dynamic Variable Storage**: User inputs like name, email, and visit date are dynamically stored for personalized experiences.
+
 
 ## Key Interactions
 
@@ -62,5 +68,6 @@ Aetheria is an AI-powered chatbot designed to assist students with various aspec
 
 - **Voice Integration**: Add voice support for a more immersive experience.
 - **Personalized Recommendations**: Tailor suggestions based on user preferences and history.
-- **Multilingual Support**: Expand Aetheria’s capabilities to support multiple languages for international students.
-- **API Integrations
+- **API Integrations**: Incorporate third-party APIs for real-time data such as campus events, academic deadlines, and more.
+- **Improved Analytics**: Implement user interaction analytics for better insights into the chatbot's performance and user needs.
+
