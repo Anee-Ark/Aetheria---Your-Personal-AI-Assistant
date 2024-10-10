@@ -1,5 +1,5 @@
 # Aetheria - Your Personal AI Assistant
-![Aetheria Chatbot](https://path_to_your_image.png)
+![Aetheria Chatbot](https://github.com/Anee-Ark/Aetheria---Your-Personal-AI-Assistant/blob/main/download%20(3).jpeg)
 [![Voiceflow](https://img.shields.io/badge/Voiceflow-blue)](https://creator.voiceflow.com/prototype/6702ce208b43f585790f8db7)
 [![LLM](https://img.shields.io/badge/LLM-Chatbot-orange)](https://en.wikipedia.org/wiki/Large_language_model)
 [![NLP](https://img.shields.io/badge/NLP-Powered-yellowgreen)](https://en.wikipedia.org/wiki/Natural_language_processing)
